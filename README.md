@@ -20,7 +20,7 @@ The system consists of the following microservices:
 
 ## Setup Instructions
 1. Clone the repository:
-    git clone https://github.com/LionHeart995/Backend-Engineering-Challenge-PESTO.git
+    git clone https://github.com/howdyrahuldev/Backend-Engineering-Challenge-PESTO.git
 
 2. Set up the database:
    - Install PostgreSQL and create a database for the system.
